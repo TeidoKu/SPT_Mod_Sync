@@ -17788,3 +17788,6 @@
 [2025-03-30T05:01:44.034Z] debug: 	Saving 3 profiles took 7.576ms
 [2025-03-30T05:02:04.061Z] debug: 	Saving 3 profiles took 8.25ms
 [2025-03-30T05:02:24.094Z] debug: 	Saving 3 profiles took 7.965ms
+[2025-03-30T05:02:26.105Z] info: 	[Fika Server] Configuration hot-reloaded successfully
+[2025-03-30T05:02:44.115Z] debug: 	Saving 3 profiles took 8.187ms
+[2025-03-30T05:03:04.203Z] debug: 	Saving 3 profiles took 7.432ms
