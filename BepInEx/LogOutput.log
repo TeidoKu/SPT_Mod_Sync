@@ -354,10 +354,6 @@
 [Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/log
 [Info   :RequestHandler] [REQUEST]: /singleplayer/settings/raid/menu
 [Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/raid/menu
-[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/raid/menu
-[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/raid/menu
-[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/raid/menu
-[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/raid/menu
 [Info   :NetManagerUtils] FikaGameObject has been created!
 [Info   :NetManagerUtils] FikaServer has started!
 [Info   :Fika.Server] Starting server with SendRate: 20
@@ -366,7 +362,7 @@
 [Info   :RequestHandler] [REQUEST]: /singleplayer/settings/getRaidTime
 [Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/getRaidTime
 [Info   :  CoopGame] Location: Sandbox
-[Info   :  CoopGame] Setting spawn point to name: 'East7_1', id: '6a18e621-14cc-4de5-83e9-4dbb5d57db3d'
+[Info   :  CoopGame] Setting spawn point to name: 'East2_3', id: '564c09fb-f464-4c30-b61b-4cc1943808be'
 [Info   :NetManagerUtils] Setting up game variables...
 [Info   :  CoopGame] Adding debug component...
 [Info   :  CoopGame] Local player created
@@ -618,42 +614,39 @@
 [Info   : Fika.Core] Retrieving data for: infectedTagilla, difficulty: normal
 [Info   : Fika.Core] Retrieving data for: infectedTagilla, difficulty: hard
 [Info   : Fika.Core] Retrieving data for: infectedTagilla, difficulty: impossible
-[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/maxCap/Sandbox
-[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/maxCap/Sandbox
-[Info   :ModulePatch] Set max bot cap for: Sandbox from: 36 to: 14
+[Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/maxCap/Sandbox_high
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/maxCap/Sandbox_high
+[Info   :ModulePatch] Set max bot cap for: Sandbox_high from: 36 to: 14
 [Info   :  CoopGame] All players are loaded, continuing...
-[Info   :  CoopGame] Running old spawn system. Waves: 6
+[Info   :  CoopGame] Running old spawn system. Waves: 5
 [Info   :RequestHandler] [REQUEST]: /singleplayer/scav/traitorscavhostile
 [Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/scav/traitorscavhostile
 [Info   :  CoopGame] Running new spawn system.
 [Warning: Fika.Core] FreeCameraController::Awake: Failed to cache BattleUI
-[Info   :  CoopGame] MatchingType: GroupLeader, Raid Code: 8YDIFE
+[Info   :  CoopGame] MatchingType: GroupLeader, Raid Code: QPM0EJ
 [Error  :  CoopGame] SyncTransitControllers: TransitController was null!
 [Info   :DynamicMaps] Trying to attach peek component to BattleUI
-[Info   :  CoopGame] SpawnPoint: 6a18e621-14cc-4de5-83e9-4dbb5d57db3d, InfiltrationPoint: east
+[Info   :  CoopGame] SpawnPoint: 564c09fb-f464-4c30-b61b-4cc1943808be, InfiltrationPoint: east
 [Info   :RequestHandler] [REQUEST]: /singleplayer/settings/bot/getBotBehaviours/
 [Info   :RequestHandler] [REQUEST SUCCESSFUL] /singleplayer/settings/bot/getBotBehaviours/
 [Warning:ModulePatch] Cached ai brain weights in client
+[Warning:ModulePatch] Updated assault bot Харитон Трудовик to use: assault brain
+[Warning:ModulePatch] Updated player scav bot to use: pmcBot brain
+[Warning:ModulePatch] Updated assault bot Деня Темный to use: assault brain
+[Warning:ModulePatch] Updated assault bot Мишаня Харон to use: assault brain
+[Warning:ModulePatch] Updated assault bot Эдуард Блатной to use: assault brain
+[Warning:ModulePatch] Updated assault bot Леня Хромой to use: assault brain
+[Warning:ModulePatch] Updated assault bot Колян Рубинштейн to use: assault brain
+[Warning:ModulePatch] Updated assault bot Яков Гук to use: assault brain
+[Warning:ModulePatch] Updated assault bot Парфений Дракон to use: assault brain
 [Warning:ModulePatch] Updated player scav bot to use: assault brain
-[Warning:ModulePatch] Updated assault bot Шурик Макарыч to use: assault brain
-[Warning:ModulePatch] Updated assault bot Саша Сиська to use: assault brain
-[Warning:ModulePatch] Updated assault bot Нойс Пупкин to use: assault brain
-[Warning:ModulePatch] Updated assault bot Сава Резолв to use: assault brain
-[Warning:ModulePatch] Updated assault bot Саша Бардак to use: assault brain
-[Warning:ModulePatch] Updated assault bot Арсений Банзай to use: assault brain
-[Warning:ModulePatch] Updated assault bot Макар Шприц to use: assault brain
-[Warning:ModulePatch] Updated assault bot Гарик Могила to use: assault brain
-[Warning:ModulePatch] Updated assault bot Альберт Заяц to use: assault brain
-[Warning:ModulePatch] Updated spt bot 王哈桑ザ: pmcBEAR to use: followerBully brain
-[Warning:ModulePatch] Updated spt bot tyvas: pmcUSEC to use: pmcUSEC brain
-[Warning:ModulePatch] Updated spt bot jiblet: pmcBEAR to use: pmcBot brain
+[Warning:ModulePatch] Updated spt bot Props: pmcUSEC to use: pmcBot brain
+[Warning:ModulePatch] Updated spt bot Aethas: pmcBEAR to use: pmcBot brain
+[Warning:ModulePatch] Updated spt bot hughz001: pmcUSEC to use: pmcBot brain
+[Warning:ModulePatch] Updated spt bot Hicchy: pmcBEAR to use: pmcBot brain
 [Info   :DynamicMaps] MapScreen: Loading map Ground Zero (TarkovDev)
-[Warning:ModulePatch] Updated assault bot Александр Тиктокер to use: assault brain
-[Warning:ModulePatch] Updated assault bot Леоня Шукупиш to use: assault brain
-[Warning:ModulePatch] Updated assault bot Женя РХБЗ to use: assault brain
-[Warning:ModulePatch] Updated assault bot Ростислав Новгородский to use: assault brain
-[Warning:ModulePatch] Updated assault bot Данила Топор to use: assault brain
-[Error  :LootingBots] ([assault] Bot18) Failed to move Crash Axe to main
+[Warning:ModulePatch] Updated assault bot Толян Щупач to use: assault brain
+[Warning:ModulePatch] Updated assault bot Ромчик Шукупиш to use: assault brain
 [Info   :CoopHandler] F8 pressed, attempting to extract!
 [Info   :Fika.Server] ..:: Fika Server Session Statistics ::..
 [Info   :Fika.Server] Sent packets: 0
@@ -662,13 +655,5 @@
 [Info   :Fika.Server] Received data: 0 B
 [Info   :Fika.Server] Packet loss: 0%
 [Info   :NetManagerUtils] Destroyed FikaServer
-[Error  :DynamicMaps] Caught error while doing end of raid calculations
-[Error  :DynamicMaps] Object reference not set to an instance of an object
-[Error  :DynamicMaps]   at DynamicMaps.UI.ModdedMapScreen.OnRaidEnd () [0x000b8] in <2e454d8fd99f4ae8aca4cbd085e5db80>:0 
-  at (wrapper delegate-invoke) <Module>.invoke_void()
-  at DynamicMaps.Patches.GameWorldOnDestroyPatch.PatchPrefix () [0x00009] in <2e454d8fd99f4ae8aca4cbd085e5db80>:0 
-[Error  :DynamicMaps] Caught error while doing end of raid calculations
-[Error  :DynamicMaps] Object reference not set to an instance of an object
-[Error  :DynamicMaps]   at DynamicMaps.UI.ModdedMapScreen.OnRaidEnd () [0x000b8] in <2e454d8fd99f4ae8aca4cbd085e5db80>:0 
-  at (wrapper delegate-invoke) <Module>.invoke_void()
-  at DynamicMaps.Patches.GameWorldOnDestroyPatch.PatchPrefix () [0x00009] in <2e454d8fd99f4ae8aca4cbd085e5db80>:0 
+[Info   :RequestHandler] [REQUEST]: /raid/profile/scavsave
+[Info   :RequestHandler] [REQUEST SUCCESSFUL] /raid/profile/scavsave

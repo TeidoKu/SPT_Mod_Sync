@@ -17791,3 +17791,725 @@
 [2025-03-30T05:02:26.105Z] info: 	[Fika Server] Configuration hot-reloaded successfully
 [2025-03-30T05:02:44.115Z] debug: 	Saving 3 profiles took 8.187ms
 [2025-03-30T05:03:04.203Z] debug: 	Saving 3 profiles took 7.432ms
+[2025-03-30T05:10:07.651Z] debug: 	Importing configs...
+[2025-03-30T05:10:07.784Z] info: 	Commit hash: bb60071eaf57a09502c4d66d3ad1abe444f9e23e
+[2025-03-30T05:10:07.784Z] info: 	Build date: 1742315737686
+[2025-03-30T05:10:07.895Z] info: 	モッド読み込むツール: 7 個のモッド読み込む中...
+[2025-03-30T05:10:07.901Z] debug: 	ModLoader: Mod SPTDynamicMaps が order.json に含まれていません。追加します
+[2025-03-30T05:10:07.902Z] debug: 	ModLoader: Mod Skwizzy-LootingBots-ServerMod が order.json に含まれていません。追加します
+[2025-03-30T05:10:07.902Z] debug: 	ModLoader: Mod [SVM] Server Value Modifier が order.json に含まれていません。追加します
+[2025-03-30T05:10:07.902Z] debug: 	ModLoader: Mod fika-server が order.json に含まれていません。追加します
+[2025-03-30T05:10:07.902Z] debug: 	ModLoader: Mod give-ui が order.json に含まれていません。追加します
+[2025-03-30T05:10:07.902Z] debug: 	ModLoader: Mod zzDrakiaXYZ-LiveFleaPrices が order.json に含まれていません。追加します
+[2025-03-30T05:10:07.928Z] info: 	モッド Construction Time: Instant バージョン1.0.0 作者 unknown 読み込む完了。
+[2025-03-30T05:10:07.928Z] info: 	モッド SPT-DynamicMaps バージョン0.5.6 作者 mpstark 読み込む完了。
+[2025-03-30T05:10:07.928Z] info: 	モッド LootingBots-ServerMod バージョン1.5.1 作者 Skwizzy 読み込む完了。
+[2025-03-30T05:10:07.929Z] info: 	モッド SVM バージョン1.11.1 作者 GhostFenixx 読み込む完了。
+[2025-03-30T05:10:07.929Z] info: 	モッド server バージョン2.4.3 作者 Fika 読み込む完了。
+[2025-03-30T05:10:07.929Z] info: 	モッド give-ui バージョン3.0.1 作者 agavalda 読み込む完了。
+[2025-03-30T05:10:07.929Z] info: 	モッド LiveFleaPrices バージョン1.5.1 作者 DrakiaXYZ 読み込む完了。
+[2025-03-30T05:10:07.935Z] warn: 	[SVM] Null Preset detected, SVM is disabled, Most likely you're running this mod for the first time, head to the SVM mod folder and run the Greed.exe
+[2025-03-30T05:10:07.992Z] info: 	[Fika Server] Overriding SPT configuration
+[2025-03-30T05:10:08.004Z] info: 	サーバー: 起動コールバックを実行しています...
+[2025-03-30T05:10:08.004Z] debug: 	OS: x64 | Windows 11 Pro | win32
+[2025-03-30T05:10:08.005Z] debug: 	CPU: AMD Ryzen 7 7800X3D 8-Core Processor            cores: 16
+[2025-03-30T05:10:08.005Z] debug: 	RAM: 31.18GB
+[2025-03-30T05:10:08.005Z] debug: 	PATH: SDpcU1BUXFNQVC5TZXJ2ZXIuZXhl
+[2025-03-30T05:10:08.005Z] debug: 	PATH: SDpcU1BUXFNQVC5TZXJ2ZXIuZXhl
+[2025-03-30T05:10:08.005Z] debug: 	Server: 3.11.1
+[2025-03-30T05:10:08.005Z] debug: 	Node: 22.12.0
+[2025-03-30T05:10:08.005Z] debug: 	Date: 1742315737686
+[2025-03-30T05:10:08.005Z] debug: 	Commit: bb60071eaf57a09502c4d66d3ad1abe444f9e23e
+[2025-03-30T05:10:08.017Z] info: 	データベースをインポートしています...
+[2025-03-30T05:10:08.306Z] debug: 	ファイルの検証に失敗しました: SPT_Data/Server/database/locales/server/ja.json
+[2025-03-30T05:10:11.428Z] info: 	データベースのインポートが完了しました.
+[2025-03-30T05:10:11.428Z] debug: 	Database import took 3.4112s
+[2025-03-30T05:10:11.438Z] debug: 	Database ID validation took 1.248ms
+[2025-03-30T05:10:11.439Z] info: 	Construction time successfully set to 0.
+[2025-03-30T05:10:11.457Z] info: 	[LootingBots-ServerMod] Marking items with DiscardLimits as InsuranceDisabled
+[2025-03-30T05:10:11.465Z] info: 	[LootingBots-ServerMod] Global config DiscardLimitsEnabled set to false
+[2025-03-30T05:10:11.501Z] succ: 	https://0.0.0.0:6969　にでウェブサーバーを起動しました。
+[2025-03-30T05:10:11.501Z] succ: 	wss://0.0.0.0:6969にでウェブソケットが起動した
+[2025-03-30T05:10:11.501Z] succ: 	サーバーが実行中。, 楽しんできてください！!!
+[2025-03-30T05:10:11.511Z] debug: 	Profile backup created: user\profiles\backups\2025-03-29_22-10-11
+[2025-03-30T05:10:11.516Z] debug: 	Loading 3 profiles took 4.566ms
+[2025-03-30T05:10:12.016Z] info: 	[LiveFleaPrices] Fetching Flea Prices for gamemode regular...
+[2025-03-30T05:10:14.828Z] info: 	[Client Request] /launcher/server/connect
+[2025-03-30T05:10:14.847Z] info: 	[Client Request] /launcher/ping
+[2025-03-30T05:10:14.849Z] info: 	[Client Request] /launcher/server/version
+[2025-03-30T05:10:14.855Z] info: 	[Client Request] /files/launcher/bg.png
+[2025-03-30T05:10:14.865Z] info: 	[Client Request] /launcher/ping
+[2025-03-30T05:10:14.907Z] info: 	[Client Request] /launcher/profile/login
+[2025-03-30T05:10:14.910Z] info: 	[Client Request] /launcher/profile/get
+[2025-03-30T05:10:14.913Z] info: 	[Client Request] /launcher/profile/info
+[2025-03-30T05:10:14.919Z] info: 	[Client Request] /launcher/server/version
+[2025-03-30T05:10:15.028Z] info: 	[Client Request] /launcher/server/loadedServerMods
+[2025-03-30T05:10:15.034Z] info: 	[Client Request] /launcher/server/serverModsUsedByProfile
+[2025-03-30T05:10:15.041Z] info: 	[Client Request] /files/launcher/side_usec.png
+[2025-03-30T05:10:15.050Z] info: 	[Client Request] /launcher/profile/login
+[2025-03-30T05:10:15.052Z] info: 	[Client Request] /launcher/profile/get
+[2025-03-30T05:10:15.054Z] info: 	[Client Request] /launcher/profile/info
+[2025-03-30T05:10:15.056Z] info: 	[Client Request] /launcher/server/version
+[2025-03-30T05:10:19.824Z] debug: 	Found 4 insurance packages in profile 67e79f1300060cf373f671a4
+[2025-03-30T05:10:19.836Z] debug: 	Saving 3 profiles took 12.408ms
+[2025-03-30T05:10:39.846Z] debug: 	Saving 3 profiles took 5.965ms
+[2025-03-30T05:15:08.542Z] debug: 	Importing configs...
+[2025-03-30T05:15:08.578Z] info: 	Commit hash: bb60071eaf57a09502c4d66d3ad1abe444f9e23e
+[2025-03-30T05:15:08.578Z] info: 	Build date: 1742315737686
+[2025-03-30T05:15:08.595Z] info: 	モッド読み込むツール: 7 個のモッド読み込む中...
+[2025-03-30T05:15:08.603Z] debug: 	ModLoader: Mod SPTDynamicMaps が order.json に含まれていません。追加します
+[2025-03-30T05:15:08.603Z] debug: 	ModLoader: Mod Skwizzy-LootingBots-ServerMod が order.json に含まれていません。追加します
+[2025-03-30T05:15:08.603Z] debug: 	ModLoader: Mod [SVM] Server Value Modifier が order.json に含まれていません。追加します
+[2025-03-30T05:15:08.603Z] debug: 	ModLoader: Mod fika-server が order.json に含まれていません。追加します
+[2025-03-30T05:15:08.603Z] debug: 	ModLoader: Mod give-ui が order.json に含まれていません。追加します
+[2025-03-30T05:15:08.603Z] debug: 	ModLoader: Mod zzDrakiaXYZ-LiveFleaPrices が order.json に含まれていません。追加します
+[2025-03-30T05:15:08.627Z] info: 	モッド Construction Time: Instant バージョン1.0.0 作者 unknown 読み込む完了。
+[2025-03-30T05:15:08.627Z] info: 	モッド SPT-DynamicMaps バージョン0.5.6 作者 mpstark 読み込む完了。
+[2025-03-30T05:15:08.628Z] info: 	モッド LootingBots-ServerMod バージョン1.5.1 作者 Skwizzy 読み込む完了。
+[2025-03-30T05:15:08.628Z] info: 	モッド SVM バージョン1.11.1 作者 GhostFenixx 読み込む完了。
+[2025-03-30T05:15:08.628Z] info: 	モッド server バージョン2.4.3 作者 Fika 読み込む完了。
+[2025-03-30T05:15:08.628Z] info: 	モッド give-ui バージョン3.0.1 作者 agavalda 読み込む完了。
+[2025-03-30T05:15:08.628Z] info: 	モッド LiveFleaPrices バージョン1.5.1 作者 DrakiaXYZ 読み込む完了。
+[2025-03-30T05:15:08.689Z] info: 	[Fika Server] Overriding SPT configuration
+[2025-03-30T05:15:08.701Z] info: 	サーバー: 起動コールバックを実行しています...
+[2025-03-30T05:15:08.701Z] debug: 	OS: x64 | Windows 11 Pro | win32
+[2025-03-30T05:15:08.702Z] debug: 	CPU: AMD Ryzen 7 7800X3D 8-Core Processor            cores: 16
+[2025-03-30T05:15:08.702Z] debug: 	RAM: 31.18GB
+[2025-03-30T05:15:08.702Z] debug: 	PATH: SDpcU1BUXFNQVC5TZXJ2ZXIuZXhl
+[2025-03-30T05:15:08.702Z] debug: 	PATH: SDpcU1BUXFNQVC5TZXJ2ZXIuZXhl
+[2025-03-30T05:15:08.702Z] debug: 	Server: 3.11.1
+[2025-03-30T05:15:08.702Z] debug: 	Node: 22.12.0
+[2025-03-30T05:15:08.702Z] debug: 	Date: 1742315737686
+[2025-03-30T05:15:08.702Z] debug: 	Commit: bb60071eaf57a09502c4d66d3ad1abe444f9e23e
+[2025-03-30T05:15:08.704Z] info: 	データベースをインポートしています...
+[2025-03-30T05:15:08.766Z] debug: 	ファイルの検証に失敗しました: SPT_Data/Server/database/locales/server/ja.json
+[2025-03-30T05:15:11.630Z] info: 	データベースのインポートが完了しました.
+[2025-03-30T05:15:11.631Z] debug: 	Database import took 2.9262s
+[2025-03-30T05:15:11.639Z] debug: 	Database ID validation took 1.253ms
+[2025-03-30T05:15:11.640Z] info: 	Construction time successfully set to 0.
+[2025-03-30T05:15:11.653Z] info: 	[LootingBots-ServerMod] Marking items with DiscardLimits as InsuranceDisabled
+[2025-03-30T05:15:11.659Z] info: 	[LootingBots-ServerMod] Global config DiscardLimitsEnabled set to false
+[2025-03-30T05:15:11.694Z] succ: 	https://0.0.0.0:6969　にでウェブサーバーを起動しました。
+[2025-03-30T05:15:11.694Z] succ: 	wss://0.0.0.0:6969にでウェブソケットが起動した
+[2025-03-30T05:15:11.694Z] succ: 	サーバーが実行中。, 楽しんできてください！!!
+[2025-03-30T05:15:11.707Z] debug: 	Profile backup created: user\profiles\backups\2025-03-29_22-15-11
+[2025-03-30T05:15:11.712Z] debug: 	Loading 3 profiles took 4.773ms
+[2025-03-30T05:15:19.779Z] debug: 	Found 4 insurance packages in profile 67e79f1300060cf373f671a4
+[2025-03-30T05:15:19.795Z] debug: 	Saving 3 profiles took 16.306ms
+[2025-03-30T05:15:22.269Z] info: 	[Client Request] /launcher/server/connect
+[2025-03-30T05:15:22.289Z] info: 	[Client Request] /launcher/ping
+[2025-03-30T05:15:22.291Z] info: 	[Client Request] /launcher/server/version
+[2025-03-30T05:15:22.296Z] info: 	[Client Request] /files/launcher/bg.png
+[2025-03-30T05:15:22.305Z] info: 	[Client Request] /launcher/ping
+[2025-03-30T05:15:22.347Z] info: 	[Client Request] /launcher/profile/login
+[2025-03-30T05:15:22.349Z] info: 	[Client Request] /launcher/profile/get
+[2025-03-30T05:15:22.352Z] info: 	[Client Request] /launcher/profile/info
+[2025-03-30T05:15:22.358Z] info: 	[Client Request] /launcher/server/version
+[2025-03-30T05:15:22.468Z] info: 	[Client Request] /launcher/server/loadedServerMods
+[2025-03-30T05:15:22.473Z] info: 	[Client Request] /launcher/server/serverModsUsedByProfile
+[2025-03-30T05:15:22.478Z] info: 	[Client Request] /files/launcher/side_usec.png
+[2025-03-30T05:15:22.481Z] info: 	[Client Request] /launcher/profile/login
+[2025-03-30T05:15:22.483Z] info: 	[Client Request] /launcher/profile/get
+[2025-03-30T05:15:22.485Z] info: 	[Client Request] /launcher/profile/info
+[2025-03-30T05:15:22.487Z] info: 	[Client Request] /launcher/server/version
+[2025-03-30T05:15:27.332Z] info: 	[Client Request] /launcher/profile/login
+[2025-03-30T05:15:27.334Z] info: 	[Client Request] /launcher/profile/get
+[2025-03-30T05:15:27.336Z] info: 	[Client Request] /launcher/profile/info
+[2025-03-30T05:15:27.338Z] info: 	[Client Request] /launcher/server/version
+[2025-03-30T05:15:27.351Z] info: 	[Client Request] /launcher/server/version
+[2025-03-30T05:15:39.259Z] info: 	[Client Request] /singleplayer/bosstypes
+[2025-03-30T05:15:39.805Z] debug: 	Saving 3 profiles took 7.263ms
+[2025-03-30T05:15:39.808Z] info: 	[Client Request] /fika/natpunchserver/config
+[2025-03-30T05:15:40.146Z] info: 	[Client Request] /fika/client/config
+[2025-03-30T05:15:40.183Z] info: 	[Client Request] /singleplayer/settings/bot/difficulties/
+[2025-03-30T05:15:40.284Z] info: 	[Client Request] /singleplayer/settings/bot/difficulty/core/core
+[2025-03-30T05:15:44.237Z] info: 	[Client Request] /singleplayer/settings/version
+[2025-03-30T05:15:44.239Z] info: 	[Client Request] /singleplayer/release
+[2025-03-30T05:15:44.243Z] info: 	[Client Request] /singleplayer/moddedTraders
+[2025-03-30T05:15:44.247Z] info: 	[Client Request] /singleplayer/enableBSGlogging
+[2025-03-30T05:15:44.745Z] info: 	[Client Request] /singleplayer/bundles
+[2025-03-30T05:15:49.059Z] info: 	[Client Request] /singleplayer/settings/version
+[2025-03-30T05:15:50.279Z] info: 	[Client Request] /client/menu/locale/en
+[2025-03-30T05:15:50.341Z] info: 	[Client Request] /client/game/mode
+[2025-03-30T05:15:50.386Z] info: 	[Client Request] /client/game/start
+[2025-03-30T05:15:50.386Z] debug: 	Started game with sessionId: 67e79f1300060cf373f671a4 Rushia
+[2025-03-30T05:15:50.387Z] debug: 	Quest production unlock validation took 0.083ms
+[2025-03-30T05:15:50.388Z] debug: 	Profile made with: 3.11.1 (35392)
+[2025-03-30T05:15:50.388Z] debug: 	Server version: 3.11.1 bb60071eaf57a09502c4d66d3ad1abe444f9e23e
+[2025-03-30T05:15:50.388Z] debug: 	Debug enabled: false
+[2025-03-30T05:15:50.388Z] debug: 	Mods enabled: true
+[2025-03-30T05:15:50.452Z] info: 	[Client Request] /client/game/version/validate
+[2025-03-30T05:15:50.502Z] info: 	[Client Request] /client/languages
+[2025-03-30T05:15:50.543Z] info: 	[Client Request] /client/game/config
+[2025-03-30T05:15:54.388Z] info: 	[Client Request] /fika/client/check/version
+[2025-03-30T05:15:54.399Z] info: 	[Client Request] /fika/client/check/mods
+[2025-03-30T05:15:58.887Z] info: 	[Client Request] /client/items
+[2025-03-30T05:15:59.841Z] debug: 	Saving 3 profiles took 8.408ms
+[2025-03-30T05:16:03.880Z] info: 	[Client Request] /client/customization
+[2025-03-30T05:16:04.035Z] info: 	[Client Request] /client/customization/storage
+[2025-03-30T05:16:04.153Z] info: 	[Client Request] /client/trading/api/traderSettings
+[2025-03-30T05:16:04.154Z] info: 	[Client Request] /client/globals
+[2025-03-30T05:16:04.154Z] info: 	[Client Request] /client/prestige/list
+[2025-03-30T05:16:04.154Z] info: 	[Client Request] /client/settings
+[2025-03-30T05:16:04.679Z] info: 	[Client Request] /client/game/profile/list
+[2025-03-30T05:16:04.893Z] info: 	[Client Request] /client/game/profile/select
+[2025-03-30T05:16:04.946Z] info: 	[Client Request] /client/profile/status
+[2025-03-30T05:16:05.008Z] info: 	[Client Request] /client/weather
+[2025-03-30T05:16:05.008Z] info: 	[Client Request] /client/locale/en
+[2025-03-30T05:16:05.008Z] info: 	[Client Request] /client/locations
+[2025-03-30T05:16:05.034Z] debug: 	Map: base has no base json file, skipping generation
+[2025-03-30T05:16:05.708Z] info: 	[Client Request] /client/handbook/templates
+[2025-03-30T05:16:09.075Z] info: 	[Client Request] /client/hideout/areas
+[2025-03-30T05:16:09.177Z] info: 	[Client Request] /client/hideout/qte/list
+[2025-03-30T05:16:09.231Z] info: 	[Client Request] /client/hideout/settings
+[2025-03-30T05:16:09.281Z] info: 	[Client Request] /client/hideout/production/recipes
+[2025-03-30T05:16:09.383Z] info: 	[Client Request] /client/hideout/customization/offer/list
+[2025-03-30T05:16:09.447Z] info: 	[Client Request] /client/builds/list
+[2025-03-30T05:16:09.527Z] debug: 	[Fika Notification Manager] User is 67e79f1300060cf373f671a4
+[2025-03-30T05:16:09.527Z] debug: 	[Fika Presence] Adding player: Rushia
+[2025-03-30T05:16:09.527Z] info: 	WebSocketHandler "Fika Notification Manager" connected
+[2025-03-30T05:16:10.933Z] info: 	[Client Request] /singleplayer/log
+[2025-03-30T05:16:10.934Z] debug: 	[SPT.Core] 1184960
+[2025-03-30T05:16:10.935Z] info: 	[Client Request] /singleplayer/log
+[2025-03-30T05:16:10.935Z] debug: 	[SPT.Core] 1498960
+[2025-03-30T05:16:10.936Z] info: 	[Client Request] /singleplayer/log
+[2025-03-30T05:16:10.939Z] debug: 	[SPT.Core] 0
+[2025-03-30T05:16:12.246Z] info: 	[Client Request] /client/profile/status
+[2025-03-30T05:16:12.246Z] info: 	[Client Request] /client/notifier/channel/create
+[2025-03-30T05:16:12.248Z] info: 	[Client Request] /client/server/list
+[2025-03-30T05:16:12.248Z] info: 	[Client Request] /client/match/group/current
+[2025-03-30T05:16:12.248Z] info: 	[Client Request] /client/friend/list
+[2025-03-30T05:16:12.249Z] info: 	[Client Request] /client/mail/dialog/list
+[2025-03-30T05:16:12.249Z] info: 	[Client Request] /client/friend/request/list/inbox
+[2025-03-30T05:16:12.249Z] info: 	[Client Request] /client/friend/request/list/outbox
+[2025-03-30T05:16:12.250Z] info: 	[Client Request] /client/quest/list
+[2025-03-30T05:16:12.325Z] info: 	[WS] プレイヤー: Rushia (67e79f1300060cf373f671a4) は接続しました。
+[2025-03-30T05:16:12.325Z] info: 	WebSocketHandler "SPT WebSocket Handler" connected
+[2025-03-30T05:16:12.386Z] info: 	[Client Request] /client/achievement/statistic
+[2025-03-30T05:16:12.461Z] info: 	[Client Request] /client/achievement/list
+[2025-03-30T05:16:12.624Z] info: 	[Client Request] /client/repeatalbeQuests/activityPeriods
+[2025-03-30T05:16:12.625Z] debug: 	[Quest Check] daily quests are still valid.
+[2025-03-30T05:16:12.625Z] debug: 	Daily scav quests still locked, Intel center not built
+[2025-03-30T05:16:12.680Z] info: 	[Client Request] /client/survey
+[2025-03-30T05:16:13.031Z] info: 	[Client Request] /fika/presence/get
+[2025-03-30T05:16:19.870Z] debug: 	Saving 3 profiles took 9.194ms
+[2025-03-30T05:16:22.971Z] info: 	[Client Request] /fika/presence/get
+[2025-03-30T05:16:32.978Z] info: 	[Client Request] /fika/presence/get
+[2025-03-30T05:16:39.903Z] debug: 	Saving 3 profiles took 10.002ms
+[2025-03-30T05:16:41.797Z] info: 	[Client Request] /client/items/prices/54cb50c76803fa8b248b4571
+[2025-03-30T05:16:41.810Z] info: 	[Client Request] /client/checkVersion
+[2025-03-30T05:16:41.888Z] info: 	[Client Request] /client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571
+[2025-03-30T05:16:46.786Z] info: 	[Client Request] /fika/presence/set
+[2025-03-30T05:16:46.815Z] info: 	[Client Request] /client/ragfair/find
+[2025-03-30T05:16:50.797Z] info: 	[Client Request] /client/mail/dialog/view
+[2025-03-30T05:16:54.197Z] info: 	[Client Request] /fika/presence/set
+[2025-03-30T05:16:59.945Z] debug: 	Saving 3 profiles took 8.769ms
+[2025-03-30T05:17:19.969Z] debug: 	Saving 3 profiles took 8.43ms
+[2025-03-30T05:17:21.876Z] info: 	[Client Request] /fika/presence/set
+[2025-03-30T05:17:21.883Z] info: 	[Client Request] /fika/presence/get
+[2025-03-30T05:17:38.010Z] info: 	[Client Request] /singleplayer/settings/raid/menu
+[2025-03-30T05:17:38.825Z] info: 	[Client Request] /fika/headless/available
+[2025-03-30T05:17:38.848Z] info: 	[Client Request] /fika/location/raids
+[2025-03-30T05:17:39.999Z] debug: 	Saving 3 profiles took 8.744ms
+[2025-03-30T05:17:42.330Z] debug: 	[WS] プレイヤー： 67e79f1300060cf373f671a4　をPingしています。
+[2025-03-30T05:17:42.658Z] info: 	[Client Request] /fika/raid/create
+[2025-03-30T05:17:42.664Z] debug: 	createStaticLootItem() No preset found for weapon: 6217726288ed9f0845317459
+[2025-03-30T05:17:42.689Z] debug: 	createStaticLootItem() No preset found for weapon: 6217726288ed9f0845317459
+[2025-03-30T05:17:42.694Z] debug: 	Added 224 guaranteed containers
+[2025-03-30T05:17:42.694Z] debug: 	Container randomisation disabled, Adding 298 containers to Sandbox
+[2025-03-30T05:17:42.723Z] succ: 	A total of 1811 static items spawned
+[2025-03-30T05:17:42.745Z] debug: 	Attempted to add a forced loot location with Id: item_food_vine_quest [a90334da-af5e-4c5c-81a1-ffcfea0956cf] to map sandbox_high that already has that id in use, skipping
+[2025-03-30T05:17:42.745Z] debug: 	Attempted to add a forced loot location with Id: item_barter_electr_hdd_meh_quest [0245d533-820b-4333-bb7d-8f4431293d8e] to map sandbox_high that already has that id in use, skipping
+[2025-03-30T05:17:42.745Z] debug: 	Attempted to add a forced loot location with Id: item_food_vine_quest [a90334da-af5e-4c5c-81a1-ffcfea0956cf] to map sandbox_high that already has that id in use, skipping
+[2025-03-30T05:17:42.745Z] debug: 	Attempted to add a forced loot location with Id: item_barter_electr_hdd_meh_quest [0245d533-820b-4333-bb7d-8f4431293d8e] to map sandbox_high that already has that id in use, skipping
+[2025-03-30T05:17:42.745Z] debug: 	Attempted to add a forced loot location with Id: item_food_vine_quest [a90334da-af5e-4c5c-81a1-ffcfea0956cf] to map sandbox_high that already has that id in use, skipping
+[2025-03-30T05:17:42.745Z] debug: 	Attempted to add a forced loot location with Id: item_food_vine_quest [a90334da-af5e-4c5c-81a1-ffcfea0956cf] to map sandbox_high that already has that id in use, skipping
+[2025-03-30T05:17:42.745Z] debug: 	Attempted to add a forced loot location with Id: item_food_vine_quest [a90334da-af5e-4c5c-81a1-ffcfea0956cf] to map sandbox_high that already has that id in use, skipping
+[2025-03-30T05:17:42.778Z] succ: 	合計 261 個の動的アイテムが生成されました。
+[2025-03-30T05:17:42.779Z] succ: 	生成された場所 Sandbox_high
+[2025-03-30T05:17:42.806Z] info: 	[Client Request] /fika/update/ping
+[2025-03-30T05:17:42.844Z] info: 	[Client Request] /fika/update/sethost
+[2025-03-30T05:17:42.846Z] info: 	[Client Request] /fika/update/setstatus
+[2025-03-30T05:17:42.893Z] info: 	[Client Request] /client/match/group/exit_from_menu
+[2025-03-30T05:18:00.022Z] debug: 	Saving 3 profiles took 8.648ms
+[2025-03-30T05:18:06.896Z] info: 	[Client Request] /client/getMetricsConfig
+[2025-03-30T05:18:07.092Z] info: 	[Client Request] /singleplayer/settings/getRaidTime
+[2025-03-30T05:18:07.093Z] debug: 	Reduced: Sandbox_high raid time by: 60% to 14 minutes
+[2025-03-30T05:18:07.131Z] info: 	[Client Request] /client/raid/configuration
+[2025-03-30T05:18:07.198Z] info: 	[Client Request] /client/match/local/start
+[2025-03-30T05:18:07.927Z] info: 	[Client Request] /fika/update/playerspawn
+[2025-03-30T05:18:16.073Z] info: 	[Client Request] /fika/update/ping
+[2025-03-30T05:18:20.057Z] debug: 	Saving 3 profiles took 9.459ms
+[2025-03-30T05:18:35.084Z] info: 	[Client Request] /fika/update/setstatus
+[2025-03-30T05:18:40.093Z] debug: 	Saving 3 profiles took 9.279ms
+[2025-03-30T05:18:41.913Z] info: 	[Client Request] /client/localGame/weather
+[2025-03-30T05:18:42.507Z] info: 	[Client Request] /client/game/bot/generate
+[2025-03-30T05:18:42.507Z] debug: 	Generating 45 bots for cacheKey: assaulthard
+[2025-03-30T05:18:42.508Z] debug: 	Generating 45 bots for cacheKey: assaultnormal
+[2025-03-30T05:18:42.508Z] debug: 	Generating 30 bots for cacheKey: marksmannormal
+[2025-03-30T05:18:42.509Z] debug: 	Generating 30 bots for cacheKey: marksmanhard
+[2025-03-30T05:18:42.509Z] debug: 	Generating 5 bots for cacheKey: bosskolontaynormal
+[2025-03-30T05:18:42.509Z] debug: 	Generating 10 bots for cacheKey: followerkolontaysecuritynormal
+[2025-03-30T05:18:42.509Z] debug: 	Generating 10 bots for cacheKey: sectantpriestnormal
+[2025-03-30T05:18:42.510Z] debug: 	Generating 10 bots for cacheKey: sectantwarriornormal
+[2025-03-30T05:18:42.510Z] debug: 	Generating 5 bots for cacheKey: gifternormal
+[2025-03-30T05:18:42.510Z] debug: 	Generating 20 bots for cacheKey: pmcusecnormal
+[2025-03-30T05:18:42.510Z] debug: 	Generating 20 bots for cacheKey: pmcbearnormal
+[2025-03-30T05:18:43.122Z] debug: 	Failed placing item: 3 of: 4 items into: assault containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-30T05:18:44.288Z] debug: 	Failed placing item: 3 of: 4 items into: gifter containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-30T05:18:44.400Z] debug: 	pmcusec No default: mod_muzzle mod found for: weapon_molot_op_sks_762x39, using existing pool
+[2025-03-30T05:18:44.421Z] debug: 	Failed placing item: 3 of: 5 items into: pmcusec containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-30T05:18:44.470Z] debug: 	Failed placing item: 3 of: 5 items into: pmcbear containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-30T05:18:44.485Z] debug: 	pmcbear No default: mod_muzzle mod found for: weapon_molot_op_sks_762x39, using existing pool
+[2025-03-30T05:18:44.486Z] debug: 	Unable to add mod to DEFAULT_MOD slot: mod_reciever. All: 1 had conflicts
+[2025-03-30T05:18:44.494Z] debug: 	Failed placing item: 3 of: 5 items into: pmcbear containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-30T05:18:44.519Z] debug: 	Failed placing item: 4 of: 5 items into: pmcbear containers: Pockets. Tried: 4 times, reason: NO_SPACE, skipping
+[2025-03-30T05:18:44.535Z] debug: 	Unable to add additional magazine into bot inventory for weapon: weapon_molot_op_sks_762x39, attempted: 2 times
+[2025-03-30T05:18:44.537Z] debug: 	Unable to add mod to DEFAULT_MOD slot: mod_handguard. All: 1 had conflicts
+[2025-03-30T05:18:44.557Z] debug: 	Generated 45 assault (assault) hard bots
+[2025-03-30T05:18:44.557Z] debug: 	Generated 45 assault (assault) normal bots
+[2025-03-30T05:18:44.557Z] debug: 	Generated 30 marksman (marksman) normal bots
+[2025-03-30T05:18:44.558Z] debug: 	Generated 30 marksman (marksman) hard bots
+[2025-03-30T05:18:44.558Z] debug: 	Generated 5 bossKolontay (bossKolontay) normal bots
+[2025-03-30T05:18:44.558Z] debug: 	Generated 10 followerKolontaySecurity (followerKolontaySecurity) normal bots
+[2025-03-30T05:18:44.558Z] debug: 	Generated 10 sectantPriest (sectantPriest) normal bots
+[2025-03-30T05:18:44.558Z] debug: 	Generated 10 sectantWarrior (sectantWarrior) normal bots
+[2025-03-30T05:18:44.558Z] debug: 	Generated 5 gifter (gifter) normal bots
+[2025-03-30T05:18:44.558Z] debug: 	Generated 20 pmcUSEC (pmcUSEC) normal bots
+[2025-03-30T05:18:44.558Z] debug: 	Generated 20 pmcBEAR (pmcBEAR) normal bots
+[2025-03-30T05:18:46.696Z] info: 	[Client Request] /singleplayer/settings/bot/maxCap/Sandbox_high
+[2025-03-30T05:18:47.885Z] info: 	[Client Request] /singleplayer/scav/traitorscavhostile
+[2025-03-30T05:18:47.953Z] info: 	[Client Request] /fika/update/ping
+[2025-03-30T05:19:00.128Z] debug: 	Saving 3 profiles took 9.473ms
+[2025-03-30T05:19:05.354Z] info: 	[Client Request] /singleplayer/settings/bot/getBotBehaviours/
+[2025-03-30T05:19:12.336Z] debug: 	[WS] プレイヤー： 67e79f1300060cf373f671a4　をPingしています。
+[2025-03-30T05:19:12.336Z] debug: 	[WS] ソケットを失いました、ハンドルを削除します
+[2025-03-30T05:19:20.163Z] debug: 	Saving 3 profiles took 10.054ms
+[2025-03-30T05:19:23.145Z] info: 	[Client Request] /fika/update/ping
+[2025-03-30T05:19:40.207Z] debug: 	Saving 3 profiles took 9.982ms
+[2025-03-30T05:19:53.175Z] info: 	[Client Request] /fika/update/ping
+[2025-03-30T05:20:00.234Z] debug: 	Saving 3 profiles took 10.895ms
+[2025-03-30T05:20:20.279Z] debug: 	Saving 3 profiles took 10.498ms
+[2025-03-30T05:20:23.203Z] info: 	[Client Request] /fika/update/ping
+[2025-03-30T05:20:38.787Z] info: 	[Client Request] /client/game/bot/generate
+[2025-03-30T05:20:38.787Z] debug: 	Generating 45 bots for cacheKey: assaulteasy
+[2025-03-30T05:20:38.788Z] debug: 	Generating 30 bots for cacheKey: marksmaneasy
+[2025-03-30T05:20:39.375Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.384Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.391Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.400Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.409Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.416Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.426Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.434Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.441Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.451Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.458Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.465Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.473Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.481Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.488Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.496Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.503Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.512Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.521Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.527Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.535Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.543Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.549Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.556Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.564Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.572Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.580Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.588Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.598Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.606Z] debug: 	Unable to find experience for kill value for: marksman easy, falling back to "normal"
+[2025-03-30T05:20:39.620Z] debug: 	Generated 45 assault (assault) easy bots
+[2025-03-30T05:20:39.621Z] debug: 	Generated 30 marksman (marksman) easy bots
+[2025-03-30T05:20:40.303Z] debug: 	Saving 3 profiles took 12.896ms
+[2025-03-30T05:20:53.285Z] info: 	[Client Request] /fika/update/ping
+[2025-03-30T05:21:00.326Z] debug: 	Saving 3 profiles took 11.674ms
+[2025-03-30T05:21:20.348Z] debug: 	Saving 3 profiles took 9.391ms
+[2025-03-30T05:21:23.310Z] info: 	[Client Request] /fika/update/ping
+[2025-03-30T05:21:40.383Z] debug: 	Saving 3 profiles took 10.43ms
+[2025-03-30T05:21:53.339Z] info: 	[Client Request] /fika/update/ping
+[2025-03-30T05:22:00.399Z] debug: 	Saving 3 profiles took 9.706ms
+[2025-03-30T05:22:20.443Z] debug: 	Saving 3 profiles took 9.052ms
+[2025-03-30T05:22:23.376Z] info: 	[Client Request] /fika/update/ping
+[2025-03-30T05:22:40.477Z] debug: 	Saving 3 profiles took 10.269ms
+[2025-03-30T05:22:53.402Z] info: 	[Client Request] /fika/update/ping
+[2025-03-30T05:22:59.655Z] info: 	[Client Request] /client/game/keepalive
+[2025-03-30T05:23:00.513Z] debug: 	Saving 3 profiles took 10.415ms
+[2025-03-30T05:23:01.038Z] info: 	[Client Request] /client/match/local/end
+[2025-03-30T05:23:01.040Z] debug: 	Raid: Sandbox_high.Savage.1743311887 outcome: Survived
+[2025-03-30T05:23:01.083Z] info: 	[Client Request] /fika/raid/leave
+[2025-03-30T05:23:01.084Z] info: 	Coop session 67e79f1300060cf373f671a4 has ended: host-shutdown
+[2025-03-30T05:23:04.074Z] info: 	[WS] プレイヤー: Rushia (67e79f1300060cf373f671a4) は接続しました。
+[2025-03-30T05:23:04.074Z] info: 	WebSocketHandler "SPT WebSocket Handler" connected
+[2025-03-30T05:23:05.576Z] info: 	[Client Request] /client/game/profile/list
+[2025-03-30T05:23:05.687Z] info: 	[Client Request] /client/game/profile/select
+[2025-03-30T05:23:05.704Z] info: 	[Client Request] /client/profile/status
+[2025-03-30T05:23:05.730Z] info: 	[Client Request] /raid/profile/scavsave
+[2025-03-30T05:23:05.745Z] info: 	[Client Request] /client/quest/list
+[2025-03-30T05:23:05.792Z] info: 	[Client Request] /client/achievement/statistic
+[2025-03-30T05:23:05.809Z] info: 	[Client Request] /client/achievement/list
+[2025-03-30T05:23:05.893Z] info: 	[Client Request] /client/repeatalbeQuests/activityPeriods
+[2025-03-30T05:23:05.893Z] debug: 	[Quest Check] daily quests are still valid.
+[2025-03-30T05:23:05.893Z] debug: 	Daily scav quests still locked, Intel center not built
+[2025-03-30T05:23:19.927Z] info: 	[Client Request] /client/game/profile/items/moving
+[2025-03-30T05:23:19.927Z] debug: 	event: Move
+[2025-03-30T05:23:19.928Z] debug: 	event: Move
+[2025-03-30T05:23:19.928Z] debug: 	event: Move
+[2025-03-30T05:23:19.928Z] debug: 	event: Move
+[2025-03-30T05:23:19.928Z] debug: 	event: Move
+[2025-03-30T05:23:19.928Z] debug: 	event: Move
+[2025-03-30T05:23:19.928Z] debug: 	event: Move
+[2025-03-30T05:23:19.928Z] debug: 	event: Move
+[2025-03-30T05:23:19.983Z] info: 	[Client Request] /client/game/profile/savage/regenerate
+[2025-03-30T05:23:19.986Z] debug: 	generated player scav loadout with karma level 0
+[2025-03-30T05:23:20.544Z] debug: 	Saving 3 profiles took 8.129ms
+[2025-03-30T05:23:24.300Z] info: 	[Client Request] /client/items
+[2025-03-30T05:23:28.957Z] info: 	[Client Request] /client/customization
+[2025-03-30T05:23:29.106Z] info: 	[Client Request] /client/customization/storage
+[2025-03-30T05:23:29.173Z] info: 	[Client Request] /client/trading/api/traderSettings
+[2025-03-30T05:23:29.185Z] info: 	[Client Request] /client/globals
+[2025-03-30T05:23:29.185Z] info: 	[Client Request] /client/settings
+[2025-03-30T05:23:29.185Z] info: 	[Client Request] /client/prestige/list
+[2025-03-30T05:23:30.003Z] info: 	[Client Request] /client/game/profile/list
+[2025-03-30T05:23:30.151Z] info: 	[Client Request] /client/game/profile/select
+[2025-03-30T05:23:30.217Z] info: 	[Client Request] /client/profile/status
+[2025-03-30T05:23:30.270Z] info: 	[Client Request] /client/weather
+[2025-03-30T05:23:30.282Z] info: 	[Client Request] /client/locations
+[2025-03-30T05:23:30.282Z] debug: 	Map: base has no base json file, skipping generation
+[2025-03-30T05:23:30.804Z] info: 	[Client Request] /client/handbook/templates
+[2025-03-30T05:23:33.041Z] info: 	[Client Request] /client/hideout/areas
+[2025-03-30T05:23:33.118Z] info: 	[Client Request] /client/hideout/qte/list
+[2025-03-30T05:23:33.175Z] info: 	[Client Request] /client/hideout/settings
+[2025-03-30T05:23:33.225Z] info: 	[Client Request] /client/hideout/production/recipes
+[2025-03-30T05:23:33.309Z] info: 	[Client Request] /client/hideout/customization/offer/list
+[2025-03-30T05:23:33.360Z] info: 	[Client Request] /client/builds/list
+[2025-03-30T05:23:36.569Z] info: 	[Client Request] /client/notifier/channel/create
+[2025-03-30T05:23:36.599Z] info: 	[Client Request] /client/profile/status
+[2025-03-30T05:23:36.599Z] info: 	[Client Request] /client/match/group/current
+[2025-03-30T05:23:36.599Z] info: 	[Client Request] /client/friend/request/list/outbox
+[2025-03-30T05:23:36.599Z] info: 	[Client Request] /client/quest/list
+[2025-03-30T05:23:36.600Z] info: 	[Client Request] /client/friend/request/list/inbox
+[2025-03-30T05:23:36.600Z] info: 	[Client Request] /client/friend/list
+[2025-03-30T05:23:36.600Z] info: 	[Client Request] /client/server/list
+[2025-03-30T05:23:36.600Z] info: 	[Client Request] /client/mail/dialog/list
+[2025-03-30T05:23:36.645Z] info: 	[WS] プレイヤー: Rushia (67e79f1300060cf373f671a4) は接続しました。
+[2025-03-30T05:23:36.646Z] info: 	WebSocketHandler "SPT WebSocket Handler" connected
+[2025-03-30T05:23:36.679Z] info: 	[Client Request] /client/achievement/statistic
+[2025-03-30T05:23:36.745Z] info: 	[Client Request] /client/achievement/list
+[2025-03-30T05:23:36.853Z] info: 	[Client Request] /client/repeatalbeQuests/activityPeriods
+[2025-03-30T05:23:36.853Z] debug: 	[Quest Check] daily quests are still valid.
+[2025-03-30T05:23:36.854Z] debug: 	Daily scav quests still locked, Intel center not built
+[2025-03-30T05:23:36.914Z] info: 	[Client Request] /client/survey
+[2025-03-30T05:23:37.190Z] info: 	[Client Request] /fika/presence/set
+[2025-03-30T05:23:37.206Z] info: 	[Client Request] /fika/presence/get
+[2025-03-30T05:23:39.137Z] info: 	[Client Request] /client/checkVersion
+[2025-03-30T05:23:40.562Z] debug: 	Saving 3 profiles took 8.841ms
+[2025-03-30T05:23:48.419Z] info: 	[Client Request] /fika/presence/set
+[2025-03-30T05:23:48.428Z] info: 	[Client Request] /fika/presence/get
+[2025-03-30T05:23:48.438Z] info: 	[Client Request] /client/game/profile/items/moving
+[2025-03-30T05:23:48.438Z] debug: 	event: ReadEncyclopedia
+[2025-03-30T05:23:48.438Z] debug: 	event: ReadEncyclopedia
+[2025-03-30T05:24:00.654Z] debug: 	Saving 3 profiles took 8.443ms
+[2025-03-30T05:24:08.905Z] info: 	[Client Request] /client/game/profile/items/moving
+[2025-03-30T05:24:08.906Z] debug: 	event: Move
+[2025-03-30T05:24:08.906Z] debug: 	Move item: 67e8d3f6ab2a74726003434b from slotid: main to container: main
+[2025-03-30T05:24:08.906Z] debug: 	event: Move
+[2025-03-30T05:24:08.906Z] debug: 	Move item: 67e8d3f6ab2a74726003421d from slotid: main to container: main
+[2025-03-30T05:24:08.906Z] debug: 	event: Move
+[2025-03-30T05:24:08.906Z] debug: 	Move item: 67e8d3f6ab2a74726003421c from slotid: main to container: main
+[2025-03-30T05:24:08.906Z] debug: 	event: Move
+[2025-03-30T05:24:08.906Z] debug: 	Move item: 67e8d3f6ab2a747260034a49 from slotid: main to container: main
+[2025-03-30T05:24:08.906Z] debug: 	event: Move
+[2025-03-30T05:24:08.906Z] debug: 	Move item: 67e79f5ecea2a129e0033f0c from slotid: main to container: main
+[2025-03-30T05:24:08.906Z] debug: 	event: ApplyInventoryChanges
+[2025-03-30T05:24:20.621Z] debug: 	Saving 3 profiles took 9.254ms
+[2025-03-30T05:24:33.363Z] info: 	[Client Request] /client/items/prices/54cb50c76803fa8b248b4571
+[2025-03-30T05:24:33.374Z] info: 	[Client Request] /client/game/profile/items/moving
+[2025-03-30T05:24:33.374Z] debug: 	event: Move
+[2025-03-30T05:24:33.374Z] debug: 	Move item: 67e79f5ecea2a129e0033d9a from slotid: hideout to container: main
+[2025-03-30T05:24:33.374Z] debug: 	event: Move
+[2025-03-30T05:24:33.374Z] debug: 	Move item: 67e79f5ecea2a129e0033f0d from slotid: hideout to container: hideout
+[2025-03-30T05:24:33.374Z] debug: 	event: Move
+[2025-03-30T05:24:33.374Z] debug: 	Move item: 67e79f5ecea2a129e0033d8f from slotid: hideout to container: main
+[2025-03-30T05:24:33.374Z] debug: 	event: Move
+[2025-03-30T05:24:33.374Z] debug: 	Move item: 67e79f5ecea2a129e0033d9f from slotid: hideout to container: main
+[2025-03-30T05:24:33.375Z] debug: 	event: Move
+[2025-03-30T05:24:33.375Z] debug: 	Move item: 67e79f5ecea2a129e0033f0a from slotid: hideout to container: hideout
+[2025-03-30T05:24:33.375Z] debug: 	event: Move
+[2025-03-30T05:24:33.375Z] debug: 	Move item: 67e79f5ecea2a129e0033f0a from slotid: hideout to container: hideout
+[2025-03-30T05:24:33.448Z] info: 	[Client Request] /client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571
+[2025-03-30T05:24:34.661Z] info: 	[Client Request] /client/items/prices/5ac3b934156ae10c4430e83c
+[2025-03-30T05:24:34.745Z] info: 	[Client Request] /client/trading/api/getTraderAssort/5ac3b934156ae10c4430e83c
+[2025-03-30T05:24:34.991Z] info: 	[Client Request] /client/items/prices/5c0647fdd443bc2504c2d371
+[2025-03-30T05:24:35.076Z] info: 	[Client Request] /client/trading/api/getTraderAssort/5c0647fdd443bc2504c2d371
+[2025-03-30T05:24:38.062Z] info: 	[Client Request] /client/game/profile/items/moving
+[2025-03-30T05:24:38.063Z] debug: 	event: QuestHandover
+[2025-03-30T05:24:38.063Z] debug: 	QuestHandover 5d24b81486f77439c92d6ba8
+[2025-03-30T05:24:39.214Z] info: 	[Client Request] /fika/presence/set
+[2025-03-30T05:24:40.656Z] debug: 	Saving 3 profiles took 10.345ms
+[2025-03-30T05:25:00.676Z] debug: 	Saving 3 profiles took 9.318ms
+[2025-03-30T05:25:06.646Z] debug: 	[WS] プレイヤー： 67e79f1300060cf373f671a4　をPingしています。
+[2025-03-30T05:25:20.786Z] debug: 	Saving 3 profiles took 8.224ms
+[2025-03-30T05:25:38.092Z] info: 	[Client Request] /client/game/profile/items/moving
+[2025-03-30T05:25:38.092Z] debug: 	event: Move
+[2025-03-30T05:25:38.092Z] debug: 	Move item: 67e79f5ecea2a129e0033ed2 from slotid: hideout to container: hideout
+[2025-03-30T05:25:38.092Z] debug: 	event: Move
+[2025-03-30T05:25:38.092Z] debug: 	Move item: 67e86e79920417fd6403475b from slotid: hideout to container: main
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e86e79920417fd64034759 from slotid: hideout to container: main
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e86e79920417fd6403475a from slotid: hideout to container: main
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e86e79920417fd64034758 from slotid: hideout to container: main
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e8535ccfbf1b3fc02d46c1 from slotid: hideout to container: hideout
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e8535ccfbf1b3fc02d475c from slotid: hideout to container: hideout
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e8535ccfbf1b3fc02d4684 from slotid: hideout to container: hideout
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e8535ccfbf1b3fc02d475c from slotid: hideout to container: hideout
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e85ed2cfbf1b3fc0309c23 from slotid: hideout to container: hideout
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e8d3f6ab2a7472600349b7 from slotid: main to container: hideout
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e8d3f6ab2a74726003483b from slotid: main to container: hideout
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e8d3f6ab2a747260034a50 from slotid: main to container: hideout
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e8d3f6ab2a74726003491d from slotid: main to container: hideout
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e8d3f6ab2a7472600349e6 from slotid: main to container: hideout
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e8d3f6ab2a747260034988 from slotid: main to container: hideout
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e8d3f6ab2a7472600349fa from slotid: main to container: hideout
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e86e79920417fd6403475b from slotid: main to container: hideout
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.093Z] debug: 	Move item: 67e86e79920417fd64034758 from slotid: main to container: hideout
+[2025-03-30T05:25:38.093Z] debug: 	event: Move
+[2025-03-30T05:25:38.094Z] debug: 	Move item: 67e86e79920417fd64034759 from slotid: main to container: hideout
+[2025-03-30T05:25:38.094Z] debug: 	event: Move
+[2025-03-30T05:25:38.094Z] debug: 	Move item: 67e86e79920417fd6403475a from slotid: main to container: hideout
+[2025-03-30T05:25:40.751Z] debug: 	Saving 3 profiles took 9.045ms
+[2025-03-30T05:26:00.784Z] debug: 	Saving 3 profiles took 9.041ms
+[2025-03-30T05:26:03.613Z] info: 	[Client Request] /client/trading/api/getTraderAssort/54cb50c76803fa8b248b4571
+[2025-03-30T05:26:03.638Z] info: 	[Client Request] /client/game/profile/items/moving
+[2025-03-30T05:26:03.638Z] debug: 	event: Move
+[2025-03-30T05:26:03.638Z] debug: 	Move item: 67e79f5ecea2a129e0033dc0 from slotid: hideout to container: Eyewear
+[2025-03-30T05:26:03.639Z] debug: 	event: Move
+[2025-03-30T05:26:03.639Z] debug: 	Move item: 67e79f5ecea2a129e0033eee from slotid: hideout to container: hideout
+[2025-03-30T05:26:05.767Z] debug: 	Found 4 insurance packages in profile 67e79f1300060cf373f671a4
+[2025-03-30T05:26:14.407Z] info: 	[Client Request] /client/game/profile/items/moving
+[2025-03-30T05:26:14.408Z] debug: 	event: TradingConfirm
+[2025-03-30T05:26:14.408Z] debug: 	Selling: id: 67e79f5ecea2a129e0033ed2 tpl: 606dae0ab0e443224b421bb7
+[2025-03-30T05:26:14.408Z] debug: 	Selling: id: 67e79f5ecea2a129e0033ef4 tpl: 571a29dc2459771fb2755a6a
+[2025-03-30T05:26:15.814Z] info: 	[Client Request] /client/items/prices/579dc571d53a0658a154fbec
+[2025-03-30T05:26:15.895Z] info: 	[Client Request] /client/trading/api/getTraderAssort/579dc571d53a0658a154fbec
+[2025-03-30T05:26:16.813Z] info: 	[Client Request] /client/game/profile/items/moving
+[2025-03-30T05:26:16.813Z] debug: 	event: TradingConfirm
+[2025-03-30T05:26:16.813Z] debug: 	Selling: id: 67e79f5ecea2a129e0033eee tpl: 571a12c42459771f627b58a0
+[2025-03-30T05:26:20.809Z] debug: 	Saving 3 profiles took 9.151ms
+[2025-03-30T05:26:36.647Z] debug: 	[WS] プレイヤー： 67e79f1300060cf373f671a4　をPingしています。
+[2025-03-30T05:26:36.768Z] info: 	[Client Request] /client/game/profile/items/moving
+[2025-03-30T05:26:36.769Z] debug: 	event: Examine
+[2025-03-30T05:26:36.769Z] debug: 	event: Examine
+[2025-03-30T05:26:36.771Z] debug: 	event: Examine
+[2025-03-30T05:26:36.771Z] debug: 	event: TradingConfirm
+[2025-03-30T05:26:36.774Z] debug: 	Added 1 item: 5c06779c86f77426e00dd782 with: 0 mods to inventory
+[2025-03-30T05:26:36.774Z] debug: 	Item(s) taken. Status OK.
+[2025-03-30T05:26:36.828Z] info: 	[Client Request] /client/trading/api/getTraderAssort/579dc571d53a0658a154fbec
+[2025-03-30T05:26:40.906Z] debug: 	Saving 3 profiles took 8.526ms
+[2025-03-30T05:26:54.391Z] info: 	[Client Request] /client/items/prices/5a7c2eca46aef81a7ca2145d
+[2025-03-30T05:26:54.473Z] info: 	[Client Request] /client/trading/api/getTraderAssort/5a7c2eca46aef81a7ca2145d
+[2025-03-30T05:27:00.879Z] debug: 	Saving 3 profiles took 8.993ms
+[2025-03-30T05:27:06.278Z] info: 	[Client Request] /fika/presence/set
+[2025-03-30T05:27:06.297Z] info: 	[Client Request] /client/game/profile/items/moving
+[2025-03-30T05:27:06.297Z] debug: 	event: ReadEncyclopedia
+[2025-03-30T05:27:06.297Z] debug: 	event: ReadEncyclopedia
+[2025-03-30T05:27:06.297Z] debug: 	event: ReadEncyclopedia
+[2025-03-30T05:27:18.204Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\connect
+[2025-03-30T05:27:18.227Z] info: 	[クライアント要請] 209.121.66.67 \launcher\ping
+[2025-03-30T05:27:18.251Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:27:18.281Z] info: 	[クライアント要請] 209.121.66.67 \launcher\ping
+[2025-03-30T05:27:18.295Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:27:18.309Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:27:18.325Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:27:18.344Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:27:18.358Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\loadedServerMods
+[2025-03-30T05:27:18.377Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\serverModsUsedByProfile
+[2025-03-30T05:27:18.393Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:27:18.407Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:27:18.421Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:27:18.433Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:27:20.905Z] debug: 	Saving 3 profiles took 8.55ms
+[2025-03-30T05:27:33.939Z] info: 	[Client Request] /client/game/profile/items/moving
+[2025-03-30T05:27:33.940Z] debug: 	event: HideoutUpgrade
+[2025-03-30T05:27:34.000Z] info: 	[Client Request] /client/game/profile/items/moving
+[2025-03-30T05:27:34.000Z] debug: 	event: HideoutUpgradeComplete
+[2025-03-30T05:27:34.000Z] debug: 	Adding bonus: TextBonus to profile, value: 0
+[2025-03-30T05:27:40.927Z] debug: 	Saving 3 profiles took 8.204ms
+[2025-03-30T05:27:43.554Z] info: 	[Client Request] /client/game/profile/items/moving
+[2025-03-30T05:27:43.554Z] debug: 	event: HideoutPutItemsInAreaSlots
+[2025-03-30T05:27:44.468Z] info: 	[Client Request] /client/game/profile/items/moving
+[2025-03-30T05:27:44.469Z] debug: 	event: HideoutPutItemsInAreaSlots
+[2025-03-30T05:27:49.154Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:27:49.166Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:27:49.180Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:27:49.193Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:27:50.752Z] info: 	[Client Request] /fika/presence/set
+[2025-03-30T05:28:01.020Z] debug: 	Saving 3 profiles took 8.049ms
+[2025-03-30T05:28:06.656Z] debug: 	[WS] プレイヤー： 67e79f1300060cf373f671a4　をPingしています。
+[2025-03-30T05:28:20.984Z] debug: 	Saving 3 profiles took 8.745ms
+[2025-03-30T05:28:41.022Z] debug: 	Saving 3 profiles took 8.875ms
+[2025-03-30T05:29:01.053Z] debug: 	Saving 3 profiles took 11.096ms
+[2025-03-30T05:29:21.146Z] debug: 	Saving 3 profiles took 8.689ms
+[2025-03-30T05:29:36.658Z] debug: 	[WS] プレイヤー： 67e79f1300060cf373f671a4　をPingしています。
+[2025-03-30T05:29:41.121Z] debug: 	Saving 3 profiles took 8.522ms
+[2025-03-30T05:29:58.305Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\connect
+[2025-03-30T05:29:58.330Z] info: 	[クライアント要請] 209.121.66.67 \launcher\ping
+[2025-03-30T05:29:58.351Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:29:58.376Z] info: 	[クライアント要請] 209.121.66.67 \launcher\ping
+[2025-03-30T05:29:58.387Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:29:58.405Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:29:58.430Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:29:58.447Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:29:58.487Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\loadedServerMods
+[2025-03-30T05:29:58.504Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\serverModsUsedByProfile
+[2025-03-30T05:29:58.529Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:29:58.541Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:29:58.556Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:29:58.568Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:30:01.163Z] debug: 	Saving 3 profiles took 9.43ms
+[2025-03-30T05:30:04.508Z] info: 	[Client Request] /client/game/keepalive
+[2025-03-30T05:30:06.883Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:30:06.900Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:30:06.919Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:30:06.935Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:30:21.180Z] debug: 	Saving 3 profiles took 9.767ms
+[2025-03-30T05:30:41.272Z] debug: 	Saving 3 profiles took 7.794ms
+[2025-03-30T05:30:49.528Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\connect
+[2025-03-30T05:30:49.554Z] info: 	[クライアント要請] 209.121.66.67 \launcher\ping
+[2025-03-30T05:30:49.568Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:30:49.590Z] info: 	[クライアント要請] 209.121.66.67 \launcher\ping
+[2025-03-30T05:30:49.603Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:30:49.616Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:30:49.632Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:30:49.648Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:30:49.700Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\loadedServerMods
+[2025-03-30T05:30:49.715Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\serverModsUsedByProfile
+[2025-03-30T05:30:49.738Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:30:49.751Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:30:49.764Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:30:49.777Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:31:01.239Z] debug: 	Saving 3 profiles took 8.992ms
+[2025-03-30T05:31:06.658Z] debug: 	[WS] プレイヤー： 67e79f1300060cf373f671a4　をPingしています。
+[2025-03-30T05:31:21.271Z] debug: 	Saving 3 profiles took 8.498ms
+[2025-03-30T05:31:28.584Z] info: 	[Client Request] /fika/presence/set
+[2025-03-30T05:31:28.598Z] info: 	[Client Request] /fika/presence/get
+[2025-03-30T05:31:38.652Z] info: 	[Client Request] /fika/presence/get
+[2025-03-30T05:31:41.244Z] info: 	[Client Request] /client/match/group/invite/cancel-all
+[2025-03-30T05:31:41.305Z] info: 	[Client Request] /client/game/logout
+[2025-03-30T05:31:41.305Z] debug: 	Saving 3 profiles took 12.321ms
+[2025-03-30T05:31:45.878Z] debug: 	[Fika Notification Manager] Deleting client 67e79f1300060cf373f671a4
+[2025-03-30T05:32:01.402Z] debug: 	Saving 3 profiles took 8.541ms
+[2025-03-30T05:32:21.363Z] debug: 	Saving 3 profiles took 8.387ms
+[2025-03-30T05:32:36.663Z] debug: 	[WS] プレイヤー： 67e79f1300060cf373f671a4　をPingしています。
+[2025-03-30T05:32:36.663Z] debug: 	[WS] ソケットを失いました、ハンドルを削除します
+[2025-03-30T05:32:41.389Z] debug: 	Saving 3 profiles took 8.748ms
+[2025-03-30T05:33:01.421Z] debug: 	Saving 3 profiles took 10.331ms
+[2025-03-30T05:33:21.540Z] debug: 	Saving 3 profiles took 8.091ms
+[2025-03-30T05:33:41.514Z] debug: 	Saving 3 profiles took 9.952ms
+[2025-03-30T05:33:41.664Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\connect
+[2025-03-30T05:33:41.690Z] info: 	[クライアント要請] 209.121.66.67 \launcher\ping
+[2025-03-30T05:33:41.707Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:33:41.736Z] info: 	[クライアント要請] 209.121.66.67 \launcher\ping
+[2025-03-30T05:33:41.745Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:33:41.766Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:33:41.783Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:33:41.803Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:33:41.849Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\loadedServerMods
+[2025-03-30T05:33:41.865Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\serverModsUsedByProfile
+[2025-03-30T05:33:41.892Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:33:41.912Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:33:41.939Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:33:41.957Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:34:01.557Z] debug: 	Saving 3 profiles took 9.039ms
+[2025-03-30T05:34:21.588Z] debug: 	Saving 3 profiles took 8.345ms
+[2025-03-30T05:34:41.612Z] debug: 	Saving 3 profiles took 8.457ms
+[2025-03-30T05:35:01.646Z] debug: 	Saving 3 profiles took 9.139ms
+[2025-03-30T05:35:21.677Z] debug: 	Saving 3 profiles took 8.488ms
+[2025-03-30T05:35:23.752Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\connect
+[2025-03-30T05:35:23.777Z] info: 	[クライアント要請] 209.121.66.67 \launcher\ping
+[2025-03-30T05:35:23.791Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:35:23.815Z] info: 	[クライアント要請] 209.121.66.67 \launcher\ping
+[2025-03-30T05:35:23.828Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:35:23.844Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:35:23.859Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:35:23.878Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:35:23.931Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\loadedServerMods
+[2025-03-30T05:35:23.948Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\serverModsUsedByProfile
+[2025-03-30T05:35:23.973Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:35:23.991Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:35:24.005Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:35:24.018Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:35:41.771Z] debug: 	Saving 3 profiles took 7.771ms
+[2025-03-30T05:35:42.447Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:35:42.459Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:35:42.480Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:35:42.492Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:35:46.562Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:35:46.607Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:35:46.653Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:35:46.669Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:36:01.743Z] debug: 	Saving 3 profiles took 8.634ms
+[2025-03-30T05:36:21.779Z] debug: 	Saving 3 profiles took 10.309ms
+[2025-03-30T05:36:41.798Z] debug: 	Saving 3 profiles took 9.077ms
+[2025-03-30T05:36:51.877Z] debug: 	Found 4 insurance packages in profile 67e79f1300060cf373f671a4
+[2025-03-30T05:37:01.814Z] debug: 	Saving 3 profiles took 8.527ms
+[2025-03-30T05:37:21.833Z] debug: 	Saving 3 profiles took 9.243ms
+[2025-03-30T05:37:28.785Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\connect
+[2025-03-30T05:37:28.815Z] info: 	[クライアント要請] 209.121.66.67 \launcher\ping
+[2025-03-30T05:37:28.831Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:37:28.853Z] info: 	[クライアント要請] 209.121.66.67 \launcher\ping
+[2025-03-30T05:37:28.860Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:37:28.873Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:37:28.887Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:37:28.918Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:37:28.938Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\loadedServerMods
+[2025-03-30T05:37:28.955Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\serverModsUsedByProfile
+[2025-03-30T05:37:28.973Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:37:29.006Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:37:29.034Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:37:29.048Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:37:41.870Z] debug: 	Saving 3 profiles took 8.553ms
+[2025-03-30T05:38:01.969Z] debug: 	Saving 3 profiles took 7.809ms
+[2025-03-30T05:38:06.521Z] info: 	[クライアント要請] 209.121.66.67 \
+[2025-03-30T05:38:06.522Z] error: 	[UNHANDLED][/]　（[%s]　を処理できません。）
+[2025-03-30T05:38:06.523Z] info: 	[object Object]
+[2025-03-30T05:38:10.802Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:38:10.840Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:38:10.853Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:38:10.865Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:38:18.861Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\connect
+[2025-03-30T05:38:18.888Z] info: 	[クライアント要請] 209.121.66.67 \launcher\ping
+[2025-03-30T05:38:18.903Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:38:18.935Z] info: 	[クライアント要請] 209.121.66.67 \launcher\ping
+[2025-03-30T05:38:18.943Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:38:18.956Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:38:18.972Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:38:18.988Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:38:19.046Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\loadedServerMods
+[2025-03-30T05:38:19.061Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\serverModsUsedByProfile
+[2025-03-30T05:38:19.085Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\login
+[2025-03-30T05:38:19.098Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\get
+[2025-03-30T05:38:19.110Z] info: 	[クライアント要請] 209.121.66.67 \launcher\profile\info
+[2025-03-30T05:38:19.122Z] info: 	[クライアント要請] 209.121.66.67 \launcher\server\version
+[2025-03-30T05:38:21.933Z] debug: 	Saving 3 profiles took 7.807ms
